@@ -11,7 +11,7 @@ FICHIERS
 - assets/logo.png : logo officiel fourni, recadré depuis l’image reçue
 
 AVANT PUBLICATION
-1. Le logo officiel reçu est déjà intégré dans assets/logo.png. Il est recadré depuis l’image fournie et conserve un fond blanc.
+1. Le logo officiel complet est intégré dans assets/logo.png. L’en-tête affiche maintenant le logo complet sans ajouter une deuxième fois le texte ESIS.
 2. Vérifier l'e-mail et le numéro WhatsApp dans config.js.
 3. Tester sur téléphone et ordinateur, en particulier le formulaire et les liens.
 4. Lire la page confidentialite.html et l'adapter à la pratique réelle de l'entreprise.
@@ -37,3 +37,8 @@ IMPORTANT
 Le fichier assets/logo.png n'est volontairement pas inclus : le logo existant doit
 être fourni par le propriétaire. Aucun témoignage, client, adresse physique,
 numéro d'enregistrement ou référence de mission non confirmé n'a été ajouté.
+
+REFERENCEMENT
+- robots.txt et sitemap.xml sont inclus pour faciliter la découverte du site par les moteurs de recherche.
+- Après publication, ajoutez le site dans Google Search Console et demandez l’indexation de la page d’accueil.
+- L’apparition dans les résultats n’est pas immédiate et ne peut pas être garantie.
